@@ -11,4 +11,6 @@
 
 [No License](https://github.com/memelicensesarchive/mla-main/tree/main/No)
 
+[FuckCord](https://github.com/memelicensesarchive/mla-main/tree/main/FuckCord)
+
 
