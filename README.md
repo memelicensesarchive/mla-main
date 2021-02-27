@@ -17,6 +17,8 @@
 
 [19 Dollar Fortnite Gift card License](https://github.com/memelicensesarchive/mla-main/tree/main/19DFGC)
 
+[US Military](https://github.com/memelicensesarchive/mla-main/tree/main/MURICA)
+
 ## 🤖 Mirrors
 [gitea](https://kreatea.ml/kreato/mla-main)
 
