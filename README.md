@@ -16,3 +16,9 @@
 [FuckCord](https://github.com/memelicensesarchive/mla-main/tree/main/FuckCord)
 
 [19 Dollar Fortnite Gift card License](https://github.com/memelicensesarchive/mla-main/tree/main/19DFGC)
+
+## 🤖 Mirrors
+[gitea](https://kreatea.ml/kreato/mla-main)
+
+
+gitlab soon:tm:
