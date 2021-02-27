@@ -26,3 +26,6 @@
 
 
 gitlab soon:tm:
+
+## Warning
+All licenses are made for entertainment purposes.
