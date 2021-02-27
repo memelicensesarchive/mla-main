@@ -19,6 +19,8 @@
 
 [US Military](https://github.com/memelicensesarchive/mla-main/tree/main/MURICA)
 
+[The killing license](https://github.com/memelicensesarchive/mla-main/tree/main/killinglicense)
+
 ## 🤖 Mirrors
 [gitea](https://kreatea.ml/kreato/mla-main)
 
