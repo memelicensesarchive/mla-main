@@ -17,7 +17,7 @@
 
 [19 Dollar Fortnite Gift card License](https://github.com/memelicensesarchive/mla-main/tree/main/19DFGC)
 
-[US Military](https://github.com/memelicensesarchive/mla-main/tree/main/MURICA)
+[US Military](https://github.com/memelicensesarchive/mla-main/tree/main/U.S-Military)
 
 [The killing license](https://github.com/memelicensesarchive/mla-main/tree/main/killinglicense)
 
