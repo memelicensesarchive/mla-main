@@ -31,5 +31,5 @@
 
 [gitlab](https://gitlab.com/kreato/memelicensesarchive)
 
-## Warning
+## ⚠️ Warning
 All licenses are made for entertainment purposes.
