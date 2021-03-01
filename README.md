@@ -27,8 +27,7 @@
 ## 🤖 Mirrors
 [gitea](https://kreatea.ml/kreato/mla-main)
 
-
-gitlab soon:tm:
+[gitlab](https://gitlab.com/kreato/memelicensesarchive)
 
 ## Warning
 All licenses are made for entertainment purposes.
