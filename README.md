@@ -24,6 +24,8 @@
 
 [The killing license](https://github.com/memelicensesarchive/mla-main/tree/main/killinglicense)
 
+[MORSHU License](https://github.com/memelicensesarchive/mla-main/tree/main/MORSHU)
+
 ## 🤖 Mirrors
 [gitea](https://kreatea.ml/kreato/mla-main)
 
