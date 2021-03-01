@@ -1,5 +1,8 @@
 <h1 align="center">MLA Main Repository</h1>
-
+<p align="center">
+<img align="center" alt="Memes" src="https://img.shields.io/badge/built%20with-memes-informational"></a>
+<img align="center" alt="Commit" src="https://img.shields.io/github/last-commit/memelicensesarchive/mla-main"></a>
+<img align="center" alt="Commit" src="https://img.shields.io/github/contributors/memelicensesarchive/mla-main"></a>
 
 > A repository just for Meme Licenses!
 
