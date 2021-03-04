@@ -22,6 +22,8 @@
 
 [US Military](https://github.com/memelicensesarchive/mla-main/tree/main/U.S-Military)
 
+[SCP Foundation](https://github.com/memelicensesarchive/mla-main/tree/main/SCP-Foundation)
+
 [The killing license](https://github.com/memelicensesarchive/mla-main/tree/main/killinglicense)
 
 [MORSHU License](https://github.com/memelicensesarchive/mla-main/tree/main/MORSHU)
