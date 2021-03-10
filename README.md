@@ -28,6 +28,8 @@
 
 [MORSHU License](https://github.com/memelicensesarchive/mla-main/tree/main/MORSHU)
 
+[Amogus license](https://github.com/memelicensesarchive/mla-main/tree/main/amogus)
+
 [Atom Bomb License](https://github.com/memelicensesarchive/mla-main/tree/main/atombomb)
 
 ## 🤖 Mirrors
