@@ -12,6 +12,8 @@
 
 [ok](https://github.com/memelicensesarchive/mla-main/tree/main/ok)
 
+[Cover yourself](https://github.com/memelicensesarchive/mla-main/tree/main/coverurself)
+
 [MURICA License](https://github.com/memelicensesarchive/mla-main/tree/main/MURICA)
 
 [No License](https://github.com/memelicensesarchive/mla-main/tree/main/No)
