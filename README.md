@@ -12,6 +12,8 @@
 
 [ok](https://github.com/memelicensesarchive/mla-main/tree/main/ok)
 
+[Trolls](https://github.com/memelicensesarchive/mla-main/tree/main/trolls)
+
 [Communism License](https://github.com/memelicensesarchive/mla-main/tree/main/communism)
 
 [Cover yourself](https://github.com/memelicensesarchive/mla-main/tree/main/coverurself)
