@@ -20,6 +20,8 @@
 
 [No License](https://github.com/memelicensesarchive/mla-main/tree/main/No)
 
+[Porkord](https://github.com/memelicensesarchive/mla-main/tree/main/porkord)
+
 [Yes License](https://github.com/memelicensesarchive/mla-main/tree/main/Yes)
 
 [FuckCord](https://github.com/memelicensesarchive/mla-main/tree/main/FuckCord)
