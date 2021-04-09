@@ -42,7 +42,7 @@
 
 [Atom Bomb License](https://github.com/memelicensesarchive/mla-main/tree/main/atombomb)
 
-[Dababy License]((https://github.com/memelicensesarchive/mla-main/tree/main/Dababy)
+[Dababy License](https://github.com/memelicensesarchive/mla-main/tree/main/Dababy)
 
 ## 🤖 Mirrors
 [gitea](https://kreatea.ml/kreato/mla-main)
